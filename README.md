@@ -6,12 +6,15 @@ A challenging ROM Hack of Pokemon Emerald designed for Nuzlocke runs, featuring 
 
 ## ✨ Features
 
-- **⚔️ Intense Gauntlets** - Multiple challenging battle sequences to test your skills
-- **🎯 Pokemon & Moves** - Full roster up to Gen 9
-- **💎 Mega Evolutions** - Strategic evolution mechanics
-- **📊 Level Caps** - Balanced progression system
+- **⚔️ Intense Gauntlets** 
+- **🎯 Gen 9 Pokemon & Moves** 
+- **💎 Mega Evolutions** 
+- **📊 Level Caps & Rare Candies** 
 - **❄️ Gen 9 Mechanics** - Updated Snow weather mechanics and Frostbite status
-- **👑 Boss Battles** - Epic encounters to push your team to the limit
+- **👑 Harder Fights**
+- **🔧 Pokemon Type & Stat changes** - Certain Pokemon got type changes & Stat boosts
+- **📝 Documentations** - Trainer Documentation, PokeMart Documentation, Item Documentations, Encounter Documentations out soon in Github!
+
 
 ---
 
@@ -24,6 +27,12 @@ A challenging ROM Hack of Pokemon Emerald designed for Nuzlocke runs, featuring 
    - Open `Emerald-Gauntlet(v1.0).gba` in your emulator
    
 3. **Start Your Adventure!**
+
+---
+
+## Notes
+1. **Save REGULARLY**
+   - There has been bugs that could cause the game to crash, so please save regularly!
 
 ---
 
@@ -44,6 +53,8 @@ Based on Pokemerald-Expansion framework.
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/boss-fight.png" width="400" alt="Boss Battle">
-  <img src="screenshots/mega-evolution.png" width="400" alt="Mega Evolution">
+  <img src="Screenshots/HomeScreen.png" width="400" alt="HomeScreen">
+  <img src="Screenshots/Battle.png" width="400" alt="Battle">
+  <img src="Screenshots/FightYourMom.png" width="400" alt="Mom Fight">
+  <img src="Screenshots/MegaEvo.gif" width=400 alt="Mega Evo">
 </div>
