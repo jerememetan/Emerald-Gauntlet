@@ -6,15 +6,16 @@ A challenging ROM Hack of Pokemon Emerald designed for Nuzlocke runs, featuring 
 
 ## ✨ Features
 
-- **⚔️ Intense Gauntlets** 
+- **⚔️ Intense Gauntlets** - Maps have been changed to be one-way / gauntlet-style routes
 - **🎯 Gen 9 Pokemon & Moves** 
 - **💎 Mega Evolutions** 
 - **📊 Level Caps & Rare Candies** 
 - **❄️ Gen 9 Mechanics** - Updated Snow weather mechanics and Frostbite status
-- **👑 Harder Fights**
-- **🔧 Pokemon Type & Stat changes** - Certain Pokemon got type changes & Stat boosts
+- **👑 Harder Fights + Additional Boss Fights**
+- **🔧 Pokemon Type & Stat changes** - Certain Pokemon got type changes & Stat boosts, like Sceptile being Grass/Dragon and meganium being Grass/Fairy
 - **📝 Documentations** - Trainer Documentation, PokeMart Documentation, Item Documentations, Encounter Documentations out soon in Github!
-
+- **⬆️ Changed Movepools** - Movepool and Learnset changes
+- **🍒 Custom Berry Yields** - Yield Randomization for Berries
 
 ---
 
@@ -44,6 +45,7 @@ A challenging ROM Hack of Pokemon Emerald designed for Nuzlocke runs, featuring 
 
 **ROM Base:** [Pokemerald-Expansion](https://github.com/rh-hideout/pokeemerald-expansion) by RH Hideout
 
+**Expansion Version:** 1.7.4
 ---
 
 ## 📝 License
@@ -57,4 +59,7 @@ Based on Pokemerald-Expansion framework.
   <img src="Screenshots/Battle.png" width="400" alt="Battle">
   <img src="Screenshots/FightYourMom.png" width="400" alt="Mom Fight">
   <img src="Screenshots/MegaEvo.gif" width=400 alt="Mega Evo">
+  <img src="Screenshots/MainMenu.png" width=400 alt="Main Menu">
+  <img src="Screenshots/Gen9Move.gif" width=400 alt="Gen 9 Move">
+   <img src="Screenshots/AdditionalRival.png" width=400 alt="Rivals">
 </div>
